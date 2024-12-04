@@ -1,8 +1,14 @@
 {
+  "name": "portfolio",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "lint": "eslint ."
+  },
   "devDependencies": {
     "@eslint/js": "^9.15.0",
     "cypress": "^13.16.0",
-    "eslint": "^9.15.0"
+    "eslint": "^9.16.0"
   },
   "dependencies": {
     "jquery": "^3.7.1"
