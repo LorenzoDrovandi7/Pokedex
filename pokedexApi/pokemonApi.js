@@ -1,6 +1,6 @@
-import { updatePokemonDetails } from "./pokemonDetails.js";
+import { actualizarDetallesPokemon } from "./DetallesPokemon.js";
 
-export function fetchPokemonList() {
+export function fetchPokemonLista() {
   $.ajax({
     url: "https://pokeapi.co/api/v2/pokemon?limit=151",
     method: "GET",
@@ -18,12 +18,12 @@ export function fetchPokemonList() {
   });
 }
 
-export function fetchPokemonDetails(pokemonName) {
+export function fetchPokemonDetalles(pokemonName) {
   $.ajax({
     url: `https://pokeapi.co/api/v2/pokemon/${pokemonName.toLowerCase()}`,
     method: "GET",
     success: function (pokemonData) {
-      updatePokemonDetails(pokemonData);
+      actualizarDetallesPokemon(pokemonData);
     },
     error: function () {
       alert("Error al obtener los datos del Pokémon.");

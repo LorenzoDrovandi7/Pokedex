@@ -1,4 +1,4 @@
-export function updatePokemonDetails(pokemonData) {
+export function actualizarDetallesPokemon(pokemonData) {
   $("#pokemon-imagen").attr("src", pokemonData.sprites.front_default);
   $("#pokemon-nombre").text(pokemonData.name);
   const tipos = pokemonData.types.map((tipo) => tipo.type.name).join(", ");
