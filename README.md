@@ -24,13 +24,11 @@ La **Pokédex** es una aplicación interactiva que permite a los usuarios buscar
 
 ## Instalación y uso
 
-Puedes dirigirte directamente a la pagina, clickeando en el siguiente link: [Pokedex](https://pokedex-project-13.vercel.app/)
-
-Si prefieres otra opción, puedes llevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina local:
+Puedesnllevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/pokedex-app.git
+   git clone https://github.com/LorenzoDrovandi7/pokedex-app.git
    cd pokedex-app
    ```
 
