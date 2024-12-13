@@ -1,6 +1,6 @@
 # Pokedex
 
-![image](https://github.com/user-attachments/assets/3931b9bf-db5d-481b-943d-e379687ada2c)
+![image](https://github.com/user-attachments/assets/4f974521-0f00-4238-b0fa-46daefaa59b9)
 
 ## Descripción
 
@@ -32,12 +32,8 @@ Puedesnllevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina lo
    cd pokedex-app
    ```
 
-2. **Abre el archivo `index.html`:**
-   Puedes abrir el archivo `index.html` directamente en tu navegador.
+2. **Abre el archivo `index.html` usando la extensión Live Server en tu editor de codigo:**
 
-   ```bash
-   open index.html
-   ```
 
 3. **Disfruta de la Pokédex:**
    Explora la lista de Pokémon o utiliza la barra de búsqueda para obtener información de cualquier Pokémon.
