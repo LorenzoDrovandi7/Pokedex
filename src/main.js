@@ -1,5 +1,5 @@
 import { interaccionPokemonLista } from "./ui/pokemonLista.js";
-import { pedirDetallesPokemon } from "./api/pokemonApi.cjs";
+import { pedirDetallesPokemon } from "./api/pokemonApi.js";
 
 $(document).ready(function () {
   $("#mostrar-boton-lista").click(interaccionPokemonLista);

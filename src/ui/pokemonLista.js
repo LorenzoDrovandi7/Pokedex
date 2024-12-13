@@ -1,4 +1,4 @@
-import { pedirListaPokemon } from "../api/pokemonApi.cjs";
+import { pedirListaPokemon } from "../api/pokemonApi.js";
 
 function generarLista(pokemons) {
   pokemons.forEach(function (pokemon) {
