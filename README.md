@@ -6,8 +6,6 @@
 
 La **Pokédex** es una aplicación interactiva que permite a los usuarios buscar Pokémon por su nombre o número, así como explorar una lista de los primeros 151 Pokémon. Al seleccionar un Pokémon, se muestra su información detallada, como su tipo, altura y peso, utilizando la API pública de [PokéAPI](https://pokeapi.co/).
 
-Este proyecto es una práctica para mejorar el uso de **jQuery**, **AJAX** y la organización modular de código utilizando **JavaScript ES6** con `import` y `export`.
-
 ## Características
 
 - **Buscar Pokémon:** Busca Pokémon por su nombre o número directamente desde la Pokédex.
