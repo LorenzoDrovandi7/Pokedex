@@ -29,7 +29,6 @@ Puedesnllevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina lo
 1. **Clona el repositorio:**
    ```bash
    https://github.com/LorenzoDrovandi7/Pokedex.git
-   cd pokedex-app
    ```
 
 2. **Abre el archivo `index.html` usando la extensión Live Server en tu editor de codigo:**
