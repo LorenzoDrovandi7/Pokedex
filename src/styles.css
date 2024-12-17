@@ -74,7 +74,7 @@ body {
 .pokemon-imagen img {
   max-width: 180px;
   max-height: 180px;
-  transform: scale(1.5);
+  transform: scale(1.9);
 }
 
 .pokemon-details {
