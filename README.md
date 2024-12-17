@@ -1,6 +1,6 @@
 # Pokedex
 
-![image](https://github.com/user-attachments/assets/3931b9bf-db5d-481b-943d-e379687ada2c)
+![image](https://github.com/user-attachments/assets/4f974521-0f00-4238-b0fa-46daefaa59b9)
 
 ## Descripción
 
@@ -24,22 +24,15 @@ La **Pokédex** es una aplicación interactiva que permite a los usuarios buscar
 
 ## Instalación y uso
 
-Puedes dirigirte directamente a la pagina, clickeando en el siguiente link: [Pokedex](https://pokedex-project-13.vercel.app/)
-
-Si prefieres otra opción, puedes llevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina local:
+Puedesnllevar a cabo estos pasos para ejecutar la Pokédex App en tu máquina local:
 
 1. **Clona el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/pokedex-app.git
-   cd pokedex-app
+   https://github.com/LorenzoDrovandi7/Pokedex.git
    ```
 
-2. **Abre el archivo `index.html`:**
-   Puedes abrir el archivo `index.html` directamente en tu navegador.
+2. **Abre el archivo `index.html` usando la extensión Live Server en tu editor de codigo:**
 
-   ```bash
-   open index.html
-   ```
 
 3. **Disfruta de la Pokédex:**
    Explora la lista de Pokémon o utiliza la barra de búsqueda para obtener información de cualquier Pokémon.
